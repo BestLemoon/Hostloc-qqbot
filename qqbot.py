@@ -2,7 +2,7 @@ from spider import *
 import requests
 import json
 import time
-api = 'https://sc.ftqq.com/SCU99459T0f4dcd6a01a0a9e5696490e07a05eacc5ecdd6b648de6.send'
+api = 'https://sc.ftqq.com/{YOUR_KEY}.send'
 #server酱的api接口，将{YOUR_KEY}替换成自己的，不需要的可以删除所有带api的语句，仅用于程序出错的通知
 
 def send_msg(msg):
