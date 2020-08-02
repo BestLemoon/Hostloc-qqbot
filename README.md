@@ -3,7 +3,7 @@ A qqbot for hostloc
 
 
 
-## 2020.8.2 酷Q已死 
+**2020.8.2 酷Q已死** 
 
 
 语言：Python 3.7.6
