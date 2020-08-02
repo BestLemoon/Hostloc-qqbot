@@ -1,11 +1,16 @@
 # Hostloc-qqbot
 A qqbot for hostloc
 
+
+
+## 2020.8.2 酷Q已死 
+
+
 语言：Python 3.7.6
 主要库：requests lxml
 
 # 运行
-第一次运行先执行pip install -r requirements.txt，程序需要自行替换参数！！**详情见注释**~~目前对小白不怎么友善，后期改进。~~已改进
+第一次运行先执行pip install -r requirements.txt，程序需要自行替换参数！！**详情见注释** ~~目前对小白不怎么友善，后期改进。~~ 已改进
 需配合[CQA](https://cqp.cc/)和[CQHTTP](https://cqhttp.cc/docs/4.15/)插件使用
 有问题可以发issue或者[email](mailto:lemoon@lemoon.ml)
 ~~## cookie需手动获取
